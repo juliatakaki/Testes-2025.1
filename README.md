@@ -1,6 +1,6 @@
 # Relatório de Falhas | i-Educar
 
-Este repositório contém o relatório de falhas identificado durante a atividade de testes funcionais (sistema caixa-preta) aplicada na funcionalidade de Cadastro de Servidores/Professores do sistema i-Educar.
+Este repositório contém o relatório de falhas identificado durante a atividade de testes funcionais (sistema caixa-preta) aplicada no sistema i-Educar.
 
 ## Descrição
 
