@@ -11,7 +11,7 @@ Durante a execução dos testes, foram encontradas duas inconsistências na vali
 1. Permissão para cadastrar carga horária com o valor `00:00`.
 2. Permissão para editar a carga horária de um servidor para valores superiores a `99:59`, permitindo, por exemplo, `100:39`.
 
-O detalhamento completo de cada falha, incluindo os passos para reprodução e o impacto, está disponível no arquivo `relatorio-falhas.md`.
+O detalhamento completo de cada falha, incluindo os passos para reprodução e o impacto, está disponível [aqui](/relatorio-falhas.md).
 
 ## Histórico de versões
 | Versão | Data       | Descrição | Autor     |
